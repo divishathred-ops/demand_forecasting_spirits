@@ -1,0 +1,18 @@
+{
+  "project": "Demand Forecasting (Time Series)",
+  "algorithm": "LightGBM",
+  "metrics": {
+    "mae": 85.83132538899882,
+    "rmse": 104.24143170787057,
+    "mape": 5.701842803259003,
+    "r2_score": 0.682726564522127,
+    "median_absolute_error": 74.30381199691215
+  },
+  "data": {
+    "total_records": 731,
+    "train_records": 584,
+    "test_records": 147,
+    "date_range": "2023-01-01 to 2024-12-31"
+  },
+  "timestamp": "2025-11-15T09:01:40.200893"
+}
