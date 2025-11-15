@@ -1,0 +1,14 @@
+feature,importance
+sales_ma7,559
+sales_lag1,511
+sales_lag30,464
+sales_lag7,431
+day,379
+day_of_week,167
+day_of_week_sin,166
+month,108
+month_cos,91
+month_sin,54
+day_of_week_cos,45
+year,2
+quarter,0
