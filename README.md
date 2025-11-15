@@ -1,6 +1,6 @@
 # Demand Forecasting for Premium Spirits
 
-Time series forecasting for Pernod Ricard inventory optimization.
+Time series forecasting
 
 ## Best Model: LightGBM
 
