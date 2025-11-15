@@ -1,0 +1,17 @@
+{
+  "project": "Demand Forecasting - Premium Spirits",
+  "company": "Pernod Ricard",
+  "date": "2025-11-15T07:36:59.539577",
+  "best_model": "LightGBM",
+  "metrics": {
+    "MAE": 97.79485106739948,
+    "RMSE": 125.99808698011356,
+    "MAPE%": 6.837837634885006,
+    "R\u00b2": 0.3487806628432786
+  },
+  "improvement_over_baseline_percent": 16.689918736267085,
+  "business_metrics": {
+    "avg_daily_sales": 1304.9313046185296,
+    "forecast_accuracy": "93.2%"
+  }
+}
